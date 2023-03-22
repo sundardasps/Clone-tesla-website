@@ -1,0 +1,393 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+    
+}
+.top{
+    width: 100%;
+    height: 34px;
+}
+.tex{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 200;
+    margin-top: 18px;
+    color:rgb(76, 75, 75);
+
+    
+    
+}
+.link{
+    color:rgb(76, 76, 76) ;
+}
+.inner{
+    text-align: center;
+    font-size-adjust: inherit;
+}
+.one{
+    width: 100%;
+    height: 600px;
+    background-image: url(image/image\ 1.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.logo{
+  height: 15px;
+  width: 120px;
+  cursor: pointer;
+  margin-left: 48px;
+  margin-top: 20px;
+  font-weight: 70;
+  float: left;
+}
+nav.list{
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: right;
+    margin-right: 70px;
+    text-decoration:none;
+    font-size: 15px;
+
+}
+nav.list a:nth-child(7){
+    padding-right: 18px;
+}
+
+
+.list a{
+    padding-left: 30px;
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+    
+}
+.model3{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 60px;
+  text-align: center;
+}
+.model3under{
+    text-align: center;
+    font-size: 20px;
+ 
+}
+.buttons{
+text-align: center;
+margin-top: 370px;
+ 
+
+}
+.button1{
+    background-color: rgb(72, 68, 68);
+    margin-right: 15px;
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+
+}
+.button2{
+    background-color: rgb(247, 244, 244);
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+
+}
+.b1{
+    padding: 10px 30px;
+    color: aliceblue;
+}
+.b2{
+    padding: 10px 30px;
+    color: rgb(145, 146, 147);
+}
+
+.two{
+    width:100% ;
+    height:600px;
+    margin-top: 0;
+    background-image: url(image/image\ 2.jpeg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.modely{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 40px;
+
+}
+.buttonstwo{
+    text-align: center;
+    margin-top: 450px;
+    
+    
+}
+.button3{
+    margin-right: 20px;
+    background-color: rgb(72, 68, 68);
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+
+}
+.button4{
+    
+    color: rgb(145, 146, 147);
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+
+}
+.b3{
+    padding: 10px 30px;
+    color: aliceblue;
+}
+.b4{
+    padding: 10px 30px;
+    color: rgb(145, 146, 147);
+}
+
+.three{
+    width:100% ;
+    height:600px;
+    background-image: url(image/image\ 3.jpeg);
+    background-size: cover;
+    background-position: center;
+     
+    
+}
+.models{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 40px;
+
+      
+}
+.modelslink{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.buttonthree{
+    text-align: center;
+    margin-top: 420px;
+    border-radius: 5px;
+}
+.button5{
+    margin-right: 20px;
+    background-color: rgb(72, 68, 68);
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+
+}
+.button6{
+    
+    color: rgb(145, 146, 147);
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+}
+.b5{
+    padding: 10px 30px;
+    color: aliceblue;
+}
+.b6{
+    padding: 10px 30px;
+    color: rgb(145, 146, 147);
+}
+
+
+.four{
+    width:100% ;
+    height:600px;
+    background-image: url(image/image\ 4.jpeg);
+    background-size: cover;
+    background-position: center;
+       
+
+}
+.modelx{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 40px;
+}.modelxlink{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.buttonfour{
+    text-align: center;
+    margin-top: 420px;
+}
+.button7{
+    margin-right: 20px;
+    background-color: rgb(72, 68, 68);
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+}
+.button8{
+    
+    color: rgb(145, 146, 147);
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+}
+.b7{
+    padding: 10px 30px;
+    color: aliceblue;
+}
+.b8{
+    padding: 10px 30px;
+    color: rgb(145, 146, 147);
+}
+
+
+
+.five{
+    width:100% ;
+    height:600px;
+    background-image: url(image/image\ 5.jpeg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.solar{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+.solarunder{
+    text-align: center;
+    font-size: 20px;
+}
+.buttonfive{
+    text-align: center;
+    margin-top: 420px;
+    border-radius: 5px;
+}
+.button9{
+    margin-right: 20px;
+    background-color: rgb(72, 68, 68);
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+}
+.button10{
+    
+    color: rgb(145, 146, 147);
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+}
+.b9{
+    padding: 10px 30px;
+    color: aliceblue;
+}
+.b10{
+    padding: 10px 30px;
+    color: rgb(145, 146, 147);
+}
+
+.six{
+    width:100% ;
+    height:600px;
+    background-image: url(image/image\ 6.webp);
+    background-size: cover;
+    background-position: center;
+    
+}
+.roof{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+.roofunder{
+    text-align: center;
+    font-size: 20px;
+}
+.buttonsix{
+    text-align: center;
+    margin-top: 420px;
+}
+.button11{
+    margin-right: 20px;
+    background-color: rgb(72, 68, 68);
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+}
+.button12{
+    
+    color: rgb(145, 146, 147);
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+}
+.b11{
+    padding: 10px 30px;
+    color: aliceblue;
+}
+.b12{
+    padding: 10px 30px;
+    color: rgb(145, 146, 147);
+}
+
+
+
+.seven{
+    width:100% ;
+    height:600px;
+    background-image: url(image/image\ 7.jpeg);
+    background-size: cover;
+    background-position: center;
+       
+}
+.acc{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+.buttonseven{
+    text-align: center;
+    margin-top: 430px;
+    
+}
+.button13{
+    margin-right: 5px;
+    background-color: rgb(10, 10, 10);
+    border-radius: 5px;
+    border: none;
+    width: 300px;
+
+}
+.b13{
+    padding: 10px 100px;
+    color: aliceblue;
+}
+.footer{
+    padding-top: 20px;
+    text-align: center;
+   
+   
+}
+.list2 a{
+    color: rgb(82, 80, 80);
+    text-decoration: none;
+    font-size: small;
+    padding-right: 10px;
+    
+}
+.c{
+    width: 10px;
+   padding-top: 10px;
+}
